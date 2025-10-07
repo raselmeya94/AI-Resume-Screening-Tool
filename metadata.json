@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Screening Tool",
+  "description": "An intelligent tool to automate CV/resume ingestion, information extraction, and candidate screening using the Gemini API. It allows users to upload resumes, extract key details, and evaluate candidates against job requirements.",
+  "requestFramePermissions": []
+}
